@@ -1,0 +1,4 @@
+---
+ - import_tasks: spotrequest.yaml
+ - import_tasks: forterafform.yaml
+ -  import_tasks: terminate.yaml 
